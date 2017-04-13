@@ -20,7 +20,7 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
 
-    <!-- Map the following files with JavaServer Faces -->
+    <!-- Map the following files with JavaServer Faces Servlet -->
     <servlet-mapping>
         <servlet-name>JavaServer Faces Servlet</servlet-name>
         <url-pattern>/faces/*</url-pattern>
